@@ -55,9 +55,4 @@ public class Account {
 	public String toString() {
 		return "Account [accno=" + accno + ", name=" + name + ", bal=" + bal + "]";
 	}
-
-	public void display()
-	{
-		System.out.println("Accno:"+accno+"\t Name:"+name+"\t Balance:"+bal);
-	}
 }

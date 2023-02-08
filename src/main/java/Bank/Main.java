@@ -193,23 +193,6 @@ public class Main {
 	{
 		ArrayList<Account> L = new ArrayList<Account>();
 		
-		/*Account A1 = new Account("abc",400);
-		Account A2 = new Account("pqr",500);
-		Account A3 = new Account("lmn",600);
-		
-		L.add(A1);
-		L.add(A2);
-		L.add(A3);
-		
-		System.out.println("Account after creation");
-		
-		for(Account A : L)
-		{
-			A.display();
-		}
-		
-		System.out.println("========================================================");
-		*/
 		String username, password;
 		
 		System.out.print("Enter Username:");
